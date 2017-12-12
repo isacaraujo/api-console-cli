@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "api-console-builder": "github:isacaraujo/api-console-builder",
-    "api-console-dev-preview": "^0.1.0",
+    "api-console-dev-preview": "github:isacaraujo/api-console-dev-preview",
     "colors": "^1.1.2",
     "commander": "^2.11.0",
     "del": "^2.2.2",
